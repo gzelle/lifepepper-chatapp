@@ -3,7 +3,9 @@
 one:
   chatroom: one
   user: one
+  body: MyText
 
 two:
   chatroom: two
   user: two
+  body: MyText
